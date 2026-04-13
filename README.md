@@ -1,2 +1,2 @@
 # Estructura Alert - Hola Mundo
-![Versiones](alerta_pantallazo)
+![Versiones](alerta_pantallazo.png)
